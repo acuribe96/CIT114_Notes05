@@ -100,11 +100,11 @@ Aneissa Uribe
 
 **Question 2**
 
-\You have complete control over your virtual networking environment, including selection of your own IP address range, creation of subnets,configuration of route tables, and gateways.  
+>You have complete control over your virtual networking environment, including selection of your own IP address range, creation of subnets,configuration of route tables, and gateways.  
 
 - I find this line interesting because before Cloud, testing was done on premises and you weren't able to choose your own IP address and subnets. It has evolved.
 
-/Route 53 finds out where the customer is located in the world, and i responds with the IP address of the edge location closest to that customer
+>Route 53 finds out where the customer is located in the world, and i responds with the IP address of the edge location closest to that customer
 
 - I find this interesting because it shows how advanced Amazon has gone with their technology and how well structured their cloud services are.
 
